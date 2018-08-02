@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Awesome Material</string>
+
+    <string name="tab_ui_collection">BASIC UI</string>
+    <string name="tab_features">FEATURES</string>
+    <string name="tab_application">APPS</string>
+    <string name="tab_feature_request">Feature Request</string>
+    <string name="tab_about_us">About Us</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="message__want_to_quit">Do you really want to quit?</string>
+
+    <string name="dummy_text1">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur ligula et eros pulvinar viverra. Morbi eu orci nulla. Duis porttitor mauris quis diam imperdiet, a porta diam sagittis. Suspendisse rutrum accumsan lectus et vestibulum. Donec vel est erat. Donec id sollicitudin quam, ut sollicitudin velit. Nulla at libero vitae urna fringilla porttitor sit amet vitae ligula. Duis ac mattis purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi congue, nisl eget tincidunt commodo, purus lacus dignissim massa, eu maximus ex ex sed lectus. Mauris dapibus enim ac ex tempor lobortis. Pellentesque at dolor nec dolor bibendum consectetur non ut libero.
+    </string>
+    <string name="dummy_text_title">
+        Lorem ipsum dolor sit amet.
+    </string>
+
+    <string name="dummy_medium_text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </string>
+
+    <string name="dummy_small_text">
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    </string>
+
+    <string name="adview_banner_home_footer">ca-app-pub-8907881762519005/7085413600</string>
+    <string name="adview_interstitial_ad_key">ca-app-pub-8907881762519005/6461954859</string>
+
+</resources>

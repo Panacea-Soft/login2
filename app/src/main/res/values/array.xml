@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="zodiac">
+        <item>Aquarius</item>
+        <item>Pisces</item>
+        <item>Aries</item>
+        <item>Taurus</item>
+        <item>Gemini</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Scorpio</item>
+        <item>Sagittarius</item>
+        <item>Capricorn</item>
+    </array>
+
+    <array name="fruits">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Date</item>
+        <item>Guava</item>
+        <item>Kiwi</item>
+        <item>Lime</item>
+        <item>Mango</item>
+        <item>Orange</item>
+    </array>
+
+    <array name="countries">
+        <item>Austria</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>DenMark</item>
+        <item>Myanmar</item>
+    </array>
+
+
+</resources>

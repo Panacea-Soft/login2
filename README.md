@@ -5,7 +5,7 @@ Awesome Material is ready to use UI collections For Google Material Design and c
 that accelerate the process of UI/UX development at your android app development.
 <br><br>
 <a href="http://www.panacea-soft.com/2018/08/how-to-create-login-screen-using-awesome-material/">
-<img src="http://www.panacea-soft.com/landing/awesome-material-android/tutorials/Login2_cover.png">
+<img src="http://www.panacea-soft.com/landing/awesome-material-android/tutorials/login2/Login2_cover.png">
 </a>
 
 

@@ -24,7 +24,7 @@ Moreover, if you want to play around our Awesome Material Demo Apk, it is availa
 
 <br><br>
 If you want to get Awesome Material Full Application, you take a look and buy at Codecanyon Market Place.<br><br>
-<a href="#">
+<a href="http://bit.ly/2Mp53at">
 <img src="http://www.panacea-soft.com/landing/awesome-material-android/tutorials/buy_now.png">
 </a>
 
